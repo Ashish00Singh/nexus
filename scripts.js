@@ -1,8 +1,6 @@
 
 // Page Navigation
 function showPage(pageId) {
-    const viewportWidth = window.innerWidth;
-    console.log(viewportWidth)
     // 1024px
     // Hide all pages
     
